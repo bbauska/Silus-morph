@@ -13,7 +13,7 @@ const texts = [
 "Gaming",
 "World",
 "hits",
-"10 thousand",
+"13 thousand",
 "subscribers",
 "..thank you"];
 
